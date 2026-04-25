@@ -1,0 +1,9 @@
+Git Workflow Used:
+
+Branches:
+- main
+- feature/gps-tracking
+- feature/chatbot
+- bugfix/login-error
+
+All features were developed separately and merged.
